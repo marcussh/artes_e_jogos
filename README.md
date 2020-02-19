@@ -6,6 +6,7 @@ O arquivo dos adesivos está no tamanho A3, com resolução de 300dpi e linhas d
 [->**Arte - Santos**](https://drive.google.com/file/d/1kDFuMzpEQlx-UFJNgLEXNUAleL3hQHVM/view?usp=sharing)
 
 [->**Frases**](https://drive.google.com/file/d/1f1jjIRQ3HUeX-NLp_KBq-TKoCj4s_Yv9/view)
+
 Fonte utilizada: [**Pacifico**](https://fonts.google.com/?query=pacific)
 
 # Bingo da vocação
